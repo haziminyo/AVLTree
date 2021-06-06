@@ -13,7 +13,7 @@ public class Main {
         tree.insert(15);
         tree.insert(18);
       
-      // To it's work should be run it with Debug 'Main'
+      // You should run this code in Debug mode
 
      }
 
